@@ -1,7 +1,7 @@
 body {
   margin: 0;
-  background-color: grey;
-  width: 100%
+  background-color: #cecccc;
+  width: 100%;
   height: 100vh;
 }
 
@@ -9,4 +9,18 @@ body {
   width: 100%;
   height: 20vh;
   background-color: #3f3f3f;
+}
+
+.content {
+  background-color: #ffffff;
+  margin: 0 auto;
+  width: 75%;
+  height: 70vh;
+}
+
+.footer {
+  background-color: black;
+  margin: 0 auto;
+  width: 75%;
+  height: 10vh;
 }
